@@ -1,7 +1,7 @@
 # Big_bird
 
 
-'***' represents anonymised values/data in syntax files
+This repository contains supplementary documents for the article ‘THE BIG BIRD GETS THE WORM? HOW SIZE INFLUENCES SOCIAL NETWORKING BY CHARITABLE ORGANIZATIONS’ by Tom Wallace and Alasdair Rutherford. This article is currenlty under review.
 
 'Ethics' contains the ethical approval documents for the project
 
@@ -12,6 +12,8 @@
 'Stratifiedsample.do' details the drawing of the stratified random sample from the Alcock and Mohan data found in 'Link_to_Alcock_Mohan.txt'
 
 'Twitternames.do'is the primary analysis file for the non-network based analysis. It details the analysis of presence on Twitter, tweeting/account metrics, and centrality
+
+N.B. '***' represents anonymised values/data in syntax files
 
 ***Below to follow***
 
