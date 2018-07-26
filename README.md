@@ -13,6 +13,8 @@ This repository contains supplementary documents for the article ‘THE BIG BIRD G
 
 'Twitternames.do'is the primary analysis file for the non-network based analysis. It details the analysis of presence on Twitter, tweeting/account metrics, and centrality
 
+'freinds_7.10.17_summary_metrics.dta' contains anonymised summary metrics for the 160 Twitter accounts using during the research. Following/follower counts and join date have been removed as these could be disclosive.
+
 N.B. '***' represents anonymised values/data in syntax files
 
 ***Below to follow***
