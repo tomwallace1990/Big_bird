@@ -13,7 +13,8 @@ This repository contains supplementary documents for the article ‘THE BIG BIRD G
 
 'Twitternames.do'is the primary analysis file for the non-network based analysis. It details the analysis of presence on Twitter, tweeting/account metrics, and centrality
 
-'Freinds 7.10.17anonymised.xlsx' contains the anonymised networking data used during the research and connection metrics, this is Twitter friendship links data collected on 7/10/2017
+'Freinds 7.10.17anonymised.xlsx' contains the anonymised networking data used during the research and connection metrics, this is Twitter friendship links data collected on 7/10/2017. This is a NodeXL file and can only be opened with NodeXL. See 'Freinds 7.10.17anonymised.txt' for a more acessable format
+
+'Freinds 7.10.17anonymised.txt' this contains the network data from 'Freinds 7.10.17anonymised.xlsx' in an edge list format
 
 N.B. '***' represents anonymised values/data in syntax files
-
